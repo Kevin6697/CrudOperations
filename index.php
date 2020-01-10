@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Test</title>
+	<title>Pull Test</title>
 </head>
 <body>
 	<a href="insertCategory.php">Insert Category</a><br/>
